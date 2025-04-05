@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\bin\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.exe
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\bin\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.deps.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\bin\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\bin\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\bin\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA_10_FOR_WHILE_DO.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\refint\PRACTICA 10 FOR WHILE DO.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\PRACTICA 10 FOR WHILE DO.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 10 FOR WHILE DO\obj\Debug\net8.0-windows\ref\PRACTICA 10 FOR WHILE DO.dll

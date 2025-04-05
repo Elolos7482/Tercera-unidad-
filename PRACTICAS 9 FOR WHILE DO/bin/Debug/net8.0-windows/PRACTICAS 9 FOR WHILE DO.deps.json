@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRACTICAS 9 FOR WHILE DO/1.0.0": {
+        "runtime": {
+          "PRACTICAS 9 FOR WHILE DO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICAS 9 FOR WHILE DO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

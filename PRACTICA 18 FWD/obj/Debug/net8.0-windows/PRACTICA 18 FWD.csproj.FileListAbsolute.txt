@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\bin\Debug\net8.0-windows\PRACTICA 18 FWD.exe
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\bin\Debug\net8.0-windows\PRACTICA 18 FWD.deps.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\bin\Debug\net8.0-windows\PRACTICA 18 FWD.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\bin\Debug\net8.0-windows\PRACTICA 18 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\bin\Debug\net8.0-windows\PRACTICA 18 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA_18_FWD.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\refint\PRACTICA 18 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\PRACTICA 18 FWD.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICA 18 FWD\obj\Debug\net8.0-windows\ref\PRACTICA 18 FWD.dll

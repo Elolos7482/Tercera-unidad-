@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\bin\Debug\net8.0-windows\PRACTICAS 16 FWD.exe
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\bin\Debug\net8.0-windows\PRACTICAS 16 FWD.deps.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\bin\Debug\net8.0-windows\PRACTICAS 16 FWD.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\bin\Debug\net8.0-windows\PRACTICAS 16 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\bin\Debug\net8.0-windows\PRACTICAS 16 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS_16_FWD.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\refint\PRACTICAS 16 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\PRACTICAS 16 FWD.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PRACTICAS 16 FWD\obj\Debug\net8.0-windows\ref\PRACTICAS 16 FWD.dll

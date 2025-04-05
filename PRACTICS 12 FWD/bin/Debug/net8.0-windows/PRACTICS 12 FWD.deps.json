@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRACTICS 12 FWD/1.0.0": {
+        "runtime": {
+          "PRACTICS 12 FWD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICS 12 FWD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

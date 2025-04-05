@@ -1,0 +1,16 @@
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\bin\Debug\net8.0-windows\PACTRICA 15 FWD.exe
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\bin\Debug\net8.0-windows\PACTRICA 15 FWD.deps.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\bin\Debug\net8.0-windows\PACTRICA 15 FWD.runtimeconfig.json
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\bin\Debug\net8.0-windows\PACTRICA 15 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\bin\Debug\net8.0-windows\PACTRICA 15 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA_15_FWD.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\refint\PACTRICA 15 FWD.dll
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.pdb
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\PACTRICA 15 FWD.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Escritorio\Otras practicas For While do\PACTRICA 15 FWD\obj\Debug\net8.0-windows\ref\PACTRICA 15 FWD.dll

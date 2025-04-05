@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PACTRICA 15 FWD/1.0.0": {
+        "runtime": {
+          "PACTRICA 15 FWD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PACTRICA 15 FWD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
